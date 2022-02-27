@@ -24,7 +24,7 @@ app.get('/api/notes', (req, res) =>
 
 app.delete('/api/notes/:id', (req, res) => {  
   const removeID = req.params.id;  
-  const database = JSON.parse(fs.readFileSync(__dirname + '/Develop/db/db.json', 'utf-8'));  
+  const database = JSON.parse(fs.readFileSync(__dirname + '/db/db.json', 'utf-8'));  
   const newDb = database.filter(element => {
       return element.id !== removeID
   });
@@ -55,5 +55,5 @@ app.get('*', (req, res) =>
 );
 
 
-app.listen(process.env.PORT || 3001, () =>
-console.log('App listening at http://localhost:${PORT} 🚀'));
+app.listen( process.env.PORT || 3001, () =>
+console.log('App listening at http://localhost:3001 🚀'));
