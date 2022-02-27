@@ -1,0 +1,98 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\Class work\\Activites\\Week 11\\01-Ins_Setup"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\Activites\\Week 11\\02-Stu_Setup"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\Activites\\Week 11\\03-Ins_API-HTML-Routes"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\Activites\\Week 11\\04-Stu_API-HTML-Routes"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\Activites\\Week 11\\05-Ins_Query-Params"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\Activites\\Week 11\\06-Stu_Query-Params"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\Activites\\Week 11\\07-Ins_GET-Fetch"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\Activites\\Week 11\\08-Stu_GET-Fetch"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\Activites\\Week 11\\09-Ins_Static-Assets"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\Activites\\Week 11\\10-Stu_Static-Assets"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\Activites\\Week 11\\11-Ins_Insomnia"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\Activites\\Week 11\\12-Stu_Insomnia"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\Activites\\Week 11\\13-Ins_POST-Requests"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\Activites\\Week 11\\14-Stu_POST-Requests"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\Activites\\Week 11\\15-Ins_Body-Parsing"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\Activites\\Week 11\\16-Stu_Body-Parsing"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\Activites\\Week 11\\17-Ins_POST-Fetch"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\Activites\\Week 11\\18-Stu_POST-Fetch"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\Activites\\Week 11\\19-Ins_Data-Persistence"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\Activites\\Week 11\\20-Stu_Data-Persistence"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\waus-virt-fsf-pt-11-2021-u-c\\11-Express\\01-Activities\\21-Ins_Modular-Routing"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\waus-virt-fsf-pt-11-2021-u-c\\11-Express\\01-Activities\\22-Stu_Modular-Routing"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\waus-virt-fsf-pt-11-2021-u-c\\11-Express\\01-Activities\\23-Ins_Custom-Middleware"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\waus-virt-fsf-pt-11-2021-u-c\\11-Express\\01-Activities\\24-Stu_Custom-Middleware"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\waus-virt-fsf-pt-11-2021-u-c\\11-Express\\01-Activities\\25-Ins_Heroku"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\waus-virt-fsf-pt-11-2021-u-c\\11-Express\\01-Activities\\26-Stu_Heroku"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\waus-virt-fsf-pt-11-2021-u-c\\11-Express\\01-Activities\\27-Evr_Git-History"
+		},
+		{
+			"path": "..\\..\\..\\Class work\\waus-virt-fsf-pt-11-2021-u-c\\11-Express\\01-Activities\\28-Stu_Mini-Project"
+		},
+		{
+			"path": "..\\..\\Week 5\\02-Homework\\Assets"
+		},
+		{
+			"path": "..\\..\\Week 5\\02-Homework"
+		}
+	],
+	"settings": {}
+}
