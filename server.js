@@ -1,7 +1,7 @@
 const express = require('express');
 const path = require('path');
 const fs = require('fs');
-const filehelp = require('./Develop/middleware/filehelp');
+const filehelp = require('./public/middleware/filehelp');
 const { v4: uuidv4 } = require('uuid');
 const app = express();
 const PORT = process.env.port || 3001;
@@ -12,15 +12,15 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.static('public'));
 
 app.get('/', (req, res) =>
-  res.sendFile(path.join(__dirname, '/Develop/public/index.html'))
+  res.sendFile(path.join(__dirname, '/public/index.html'))
 );
 
 app.get('/notes', (req, res) =>
-  res.sendFile(path.join(__dirname, '/Develop/public/notes.html'))
+  res.sendFile(path.join(__dirname, '/public/notes.html'))
 );
 
 app.get('/api/notes', (req, res) =>
-  res.sendFile(path.join(__dirname, '/Develop/db/db.json'))
+  res.sendFile(path.join(__dirname, '/db/db.json'))
 );
 
 app.delete('/api/notes/:id', (req, res) => {  
@@ -44,7 +44,7 @@ app.post('/notes', (req, res) => {
       id: uuidv4(),
     };
 
-    filehelp(newNote, (path.join(__dirname, '/Develop/db/db.json')));
+    filehelp(newNote, (path.join(__dirname, '/db/db.json')));
     res.json(`Note added successfully 🚀`);
   } else {
     res.error('Error in adding note');
@@ -52,7 +52,7 @@ app.post('/notes', (req, res) => {
 });
 
 app.get('*', (req, res) =>
-  res.sendFile(path.join(__dirname, '/Develop/public/index.html'))
+  res.sendFile(path.join(__dirname, '/public/index.html'))
 );
 
 app.listen(PORT, () =>
