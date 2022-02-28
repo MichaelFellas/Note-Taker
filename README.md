@@ -72,7 +72,7 @@ If you would like to contribute to the project please message my github.
 6. Express.js
 
 ## Screenshot
-![App-Screenshot](./assets/images/heroku-deployed.png)
+![App-Screenshot](./Assets/Images/heroku-deployed.png)
 
 ## App Heroku URL
 [App-Heroku-URL](https://radiant-anchorage-61333.herokuapp.com/)
