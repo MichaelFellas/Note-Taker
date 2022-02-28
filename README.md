@@ -13,7 +13,7 @@
 | [7. Contributing.](#contributing)|
 | [8. Technologies Used.](#technologies-used)|
 | [9. Screenshot.](#screenshot)|
-| [10. Video Demo.](#video-demo)|
+| [10. App Heroku URL.](#app-heroku-url)|
 | [11. Questions.](#questions)|
 
 ## Description
@@ -52,7 +52,7 @@ To install this app simply run the command 'npm install' in the terminal after p
 
 ## Usage
 
-To use this app open the terminal and run the command 'node .\App\server.js'. App will then run int he browser at listed Port.
+To use this app open the terminal and run the command 'node .\App\server.js'. App will then run in the browser at listed Port. Navigate to the note taking page and you can save notes with the save button, delete them with the bin icon and create a new one with the plus button.
 
 ## License
 
@@ -72,10 +72,10 @@ If you would like to contribute to the project please message my github.
 6. Express.js
 
 ## Screenshot
-![App-Screenshot](./App/Assets/Images/app-ss.png)
+![App-Screenshot](./assets/images/heroku-deployed.png)
 
-## Video Demo
-[Video-Demo](https://drive.google.com/file/d/1J4i99ERk_jEZuPEWtoJd2HiSQThFhowE/view?usp=sharing)
+## App Heroku URL
+[App-Heroku-URL](https://radiant-anchorage-61333.herokuapp.com/)
 
 ## Questions
 
